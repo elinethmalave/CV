@@ -1,0 +1,76 @@
+/********** Body **********/
+
+body{
+    font-family: arial, sans-serif;
+    color: rgb(0,0,0);
+    font size: 20;
+}
+
+/********** Header **********/
+
+#banner{
+    margin-left: px;
+    margin-top: 0px;
+    width: 1275px;
+}
+
+/*************** Datos personales ***************/
+
+h2{
+    color: black;
+    font-size: 18px;
+    padding: 10px;
+    margin: 0px;
+}
+
+
+.personalinfo ul{
+    font-size: 18px;
+    padding: 10px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+.personalinfo ul li span{
+    font-weight: lighter;
+}
+
+.sobremi p{
+    font-size: 18px;
+    padding: 10px;
+    margin: 0px;
+    list-style-type: none;
+}
+
+hr{
+    background-color: #f4d4be;
+    height: 25px;
+    border: 0;
+}
+/*************** Educación y experiencia ***************/
+
+.table{;
+    font-size: 20px;
+    display: block;
+    padding: 10px;
+}
+
+.table tr td{
+    vertical-align: top;
+}
+
+.date{
+    font-weight: 700;
+    padding: 10px;
+}
+
+/*************** Footer **************/
+
+.redessociales{;
+    font-size: 25px; 
+   
+}
+footer{
+    background-color:#f4d4be;
+    text-align: center;
+}
